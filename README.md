@@ -1,4 +1,5 @@
 # Ai-god-mod & ENVI & Omni-Hardware-Optimized
+#update# see website for details aiomnihardware.org
  (in progress) currently colecting models and various launguages.
  03/08/2025:updates
  We’re excited to share some updates on our progress at Omni-Hardware-Optimized (OHO). Since the inception of our original project, ai.god.mod, we’ve grown significantly and now have three proprietary AI models under development: do.ai, me.ai, and ra.ai.
